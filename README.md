@@ -2,7 +2,7 @@
 
 Automation of QA Automation, https://www.linkedin.com/in/nastiyk
 
-About me: 👩‍💻💃🚴‍♀️🎭✈️🍲🌺 
+👩‍💻💃🚴‍♀️🎭✈️🍲🌺 
 <!--
 **nastiykr/nastiykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
