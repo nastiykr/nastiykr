@@ -2,7 +2,7 @@
 
 Automation of QA Automation, https://www.linkedin.com/in/nastiyk
 
-
+About me: 👩‍💻💃🚴‍♀️🎭✈️🍲🌺 
 <!--
 **nastiykr/nastiykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anastasiiia's github stats](https://github-readme-stats.vercel.app/api?username=nastiykr&show_icons=true&theme=radical)
+![Anastasiia's github stats](https://github-readme-stats.vercel.app/api?username=nastiykr&show_icons=true&theme=radical)
