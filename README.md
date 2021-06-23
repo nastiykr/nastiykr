@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anastasiia's github stats](?theme=THEME_NAMEttps://github-readme-stats.vercel.app/api?username=nastiykr&show_icons=true&theme=jolly&show_icons=true)
+![Anastasiia's github stats](?theme=THEME_NAMEttps://github-readme-stats.vercel.app/api?username=nastiykr&show_icons=true&theme=buefy&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastiykr&layout=compact)](https://github.com/nastiykr/github-readme-stats)
