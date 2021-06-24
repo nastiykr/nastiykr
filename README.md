@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Automation of QA Automation, https://www.linkedin.com/in/nastiyk
+QA Automation Engineer, https://www.linkedin.com/in/nastiyk
 
 👩‍💻💃🚴‍♀️🎭✈️🍲🌺 
 <!--
