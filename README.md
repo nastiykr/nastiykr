@@ -1,11 +1,11 @@
-### Hi there, I'm Anastasiia 👋
+<h1 align="center"> Hi there, I'm Anastasiia 👋</h1>
 
-QA Automation Engineer from Saint Petersburg
+<h4 align="center">QA Automation Engineer from Saint Petersburg </h4>
 
-👩‍💻💃🚴‍♀️🎭✈️🍲🌺 
+<h4 align="center">👩‍💻💃🚴‍♀️🎭✈️🍲🌺 </h4>
 
-<h4 align="left">My contact</h4>
-<p align="left">
+<h4 align="center">My contact</h4>
+<p align="center">
   <a href="https://www.linkedin.com/in/nastiyk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nastiykr" height="30linkedin-icon.svg" width="40" /></a>
 </p>
 
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nastiykr&theme=buefy&show_icons=true&locale=en&layout=compact" alt="nastiykr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nastiykr&theme=buefy&show_icons=true&layout=compact&locale=en" alt="nastiykr" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nastiykr&theme=buefy&show_icons=true&layout=compact&locale=en" alt="nastiykr" /></p>
 
 
